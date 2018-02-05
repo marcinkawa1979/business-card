@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Busines_card_2</string>
+    <string name="top_text">Welcome to</string>
+    <string name="name">UDACITY</string>
+    <string name="street">2465 Latham Street</string>
+    <string name="place">Mountain View, CA 94043</string>
+    <string name="phone_number">650-555-5555</string>
+    <string name="www">www.udacity.com</string>
+</resources>
